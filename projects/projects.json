@@ -1,0 +1,56 @@
+[
+
+
+  {
+    "name": "Online Grocery Store",
+    "desc": "An online grocery store tech stack includes a user-friendly front-end, robust back-end,and efficient inventory management system.",
+    "image": "Screenshot 2024-05-28 174712",
+    "links": {
+      "view": "https://github.com/FaisalKhan0777/Online-Grocery-Store.github.io",
+      "code": "https://github.com/FaisalKhan0777/Online-Grocery-Store.github.io"
+    }
+  },
+
+
+  {
+    "name": "Weather Forecasting Application",
+    "desc": "The Weather Forecasting  website is an interactive and user-friendly web application delivering real-time global weather updates",
+    "image": "wet",
+    "links": {
+      "view": "https://faisalkhan0777.github.io/WeatherForecast-App.github.io/",
+      "code": "https://github.com/FaisalKhan0777/WeatherForecast-App.github.io"
+    }
+  },
+  {
+    "name": "Smart Vehicle detection",
+    "desc": "A web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images.",
+    "image": "Screenshot 2024-07-01 180427",
+    "links": {
+      "view": "https://faisalkhan0777.github.io/smarttraffic-vehicledetection-application.github.io/",
+      "code": "https://github.com/FaisalKhan0777/smarttraffic-vehicledetection-application.github.io"
+    }
+  },
+
+
+
+
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "Screenshot 2024-07-01 181951",
+    
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+
+
+ 
+
+
+ 
+  
+  
+]
